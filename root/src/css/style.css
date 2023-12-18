@@ -1,0 +1,290 @@
+
+#imagediv{
+
+    display: flex;
+    
+    align-content: center;
+    justify-content: center;
+    
+    
+}
+
+#imagediv div{
+
+
+    
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+
+        
+}
+
+#imgdiv1{
+
+
+    
+    align-items: left;
+   
+    
+}
+
+#ourgame{
+
+    background-color: rgba(24, 30, 56, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+    font: bolder;
+    color: white;
+    
+    
+}
+
+#gamesdiv{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
+
+#aboutus{
+
+    display: flex;
+    text-decoration: none;
+    color: goldenrod;
+ 
+    
+    
+   
+    
+}
+#aboutus:hover
+{
+    color: white;
+}
+
+#email{
+    
+    display: flex;
+    text-decoration: none;
+    color: goldenrod;
+   
+   
+    
+}
+#email:hover
+{
+    color: white;
+}
+
+#helpline{
+
+    display: flex;
+    text-decoration: none;
+    color: goldenrod;
+  
+    
+        }
+#helpline:hover
+{
+    color: white;
+}
+
+#linksdiv{
+
+    display: flex;
+    justify-content: right;
+    align-content: center;
+    
+    
+}
+
+#linksdiv div{
+
+   
+   align-items: center;
+   margin-left: 15px;
+   margin-right: 15px;
+   font-size: large;
+}
+
+
+
+#number1{
+
+    display: flex;
+    border-radius: 50px;
+    background-color: rgb(240, 175, 11);
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bold;
+    height: 60px;
+    width: 250px;
+}
+
+#number1:hover {
+
+ background-color: yellow;
+ box-shadow: 3px 5px 5px purple;
+
+}
+
+#number2:hover {
+
+    background-color: yellow;
+    box-shadow: 3px 5px 5px purple;
+   
+   }
+   
+   #number1:active {
+
+    background-color: yellow;
+    box-shadow: 3px 5px 5px purple;
+   
+   }
+
+   #number2:active {
+
+    background-color: yellow;
+    box-shadow: 3px 5px 5px purple;
+   
+   }
+   
+#number2{
+
+    display: flex;
+    border-radius: 500px;
+    background-color: rgb(240, 175, 11);
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bold;
+    height: 60px;
+    width: 250px;
+
+}
+
+#numberdiv{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#numberdiv div{
+
+   
+    align-items: center;
+    justify-content: center;
+    margin-left: 01%;
+    margin-right: 01%;
+    
+}
+
+#numberdiv2{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#numberdiv2 div{
+
+   
+    align-items: center;
+    justify-content: center;
+    margin-left: 01%;
+    margin-right: 01%;
+    
+}
+
+#emaildiv{
+
+    
+    background-color: goldenrod;
+    align-items: center;
+    justify-content: center;
+    border-color: white;
+    
+    width: 100%;
+    
+}
+
+
+#helplinediv{
+
+    background-color: goldenrod;
+    align-items: center;
+    border-color: white;
+    
+    width: 100%;
+    
+}
+
+#phelpline{
+
+
+    font: bold;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    
+#pemail{
+
+
+    font: bold;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pabout{
+
+
+    font: bold;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#aboutusdiv{
+
+    background-color: goldenrod;
+    align-items: center;
+    border-color: white;
+    
+    width: 100%;
+    
+}
+
+#ppemail{
+
+    font: bold;
+    font-size: 140%;
+    font-family: cursive;
+    margin: 0%;
+}
+
+#pphelpline{
+
+    font: bold;
+    font-size: 140%;
+    font-family: cursive;
+    margin: 0%;
+}
+
+#ppabout{
+
+    font: bold;
+    font-size: 140%;
+    font-family: cursive;
+    margin: 0%;
+}
